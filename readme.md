@@ -1,20 +1,23 @@
-Platforms
-
-- ### Hardware
-  - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
-  - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
-  - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
-  - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
-  - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
-  - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
-  - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
-  - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
-  - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
-- ### Operating Systems
-  - *MICROSOFT*
-		- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+## Software Development
+- #### Resources
+  - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
+  - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
+  - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
+  - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
+- ### Platforms
+  - #### Hardware
+  	- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
+		- [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
+		- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+		- [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
+		- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
+		- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+		- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+		- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+		- [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
+  - #### Operating Systems
+  	- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 		- [DOS](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
-  - *\*NIX*
 		- [Linux](https://github.com/inputsh/awesome-linux#readme)
 			- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
 			- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
@@ -23,53 +26,16 @@ Platforms
 			- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 			- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 			- [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
-			- macOS - Operating system for Apple's Mac computers.
-				- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-				- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-				- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 		- BSD
-  	- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-  - *APPLE*
+		- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+		- macOS - Operating system for Apple's Mac computers.
+			- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+			- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
+			- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 		- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
 		- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
-	- ##### *OTHER*
 		- [IoT & SBC](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 			- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 			- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
 			- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 		- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
-- ### Runtime Targets
-  - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-    - [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-    - [Cross-Platform Nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-  - [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
-  - [JVM](https://github.com/deephacks/awesome-jvm#readme)
-  - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
-- ### Native Frameworks & Builders
-  - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-  - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-  - [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-  - [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-  - [.NET](https://github.com/quozd/awesome-dotnet#readme)
-  - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-  - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
-  - [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-    - [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-    - [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-  - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-  - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
-- ### [Low Code](https://github.com/zenitysec/awesome-low-code#readme) & [Integration](https://github.com/stn1slv/awesome-integration#readme) - little to no code app development & app integrations
-  - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
-  - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
-  - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
-  - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
-- ### Cloud & PaaS
-  - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
-  - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
-  - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-  - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-  - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
-  - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
-  - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
-  - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
-  - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
