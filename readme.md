@@ -65,6 +65,8 @@ This is a hard fork of sindresorhus/awesome and reorganized to suit my needs but
 
 ## Information Technology
 
+- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+
 #### Table of Contents
 - [Computer Science](#computer-science)
 - [Platforms](#platforms)
@@ -72,8 +74,6 @@ This is a hard fork of sindresorhus/awesome and reorganized to suit my needs but
 - [Software Development](#software-development)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
-
-- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ### Computer Science
 -  Resources
