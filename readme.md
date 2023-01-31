@@ -8,6 +8,10 @@ I foresee this list to be a lot bigger than the original awesome list becuase I 
 </br>
 </br>
 
+<h1 align="center">Awesomest Awesome</h1>
+
+![awesome banner](media/Awesome-Banner-1024x512.png)
+
 # Table of contents
 
 - Hard Sciences
