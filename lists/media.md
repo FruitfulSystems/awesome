@@ -1,28 +1,30 @@
-## Media
+[Table of Contents](../readme.md)
+
+# Media
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - Ad-free alternatives.
 
-### Books & Literature
+## Books & Literature
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 
-### [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+## [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
-### [Radio](https://github.com/kyleterry/awesome-radio#readme)
+## [Radio](https://github.com/kyleterry/awesome-radio#readme)
 
-### [Music](https://github.com/ciconia/awesome-music#readme)
+## [Music](https://github.com/ciconia/awesome-music#readme)
 
-### [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
+## [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 
-### [AudioVisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+## [AudioVisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
-### Websites & Software
+## Websites & Software
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Web apps that work without login.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
@@ -38,9 +40,9 @@
 - [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
-### [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+## [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 
-### Gaming
+## Gaming
 - Games
 	- [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme)
 	- [Chess](https://github.com/hkirat/awesome-chess#readme)
@@ -51,7 +53,7 @@
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
-### Events
+## Events
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 	- [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
