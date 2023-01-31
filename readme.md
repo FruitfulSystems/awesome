@@ -44,6 +44,7 @@ I foresee this list to be a lot bigger than the original awesome list because I 
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse community.
 
 # Miscellaneous
+- [Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management#readme)
 - [Save the Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 	- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 	- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
