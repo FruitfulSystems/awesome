@@ -2,7 +2,7 @@ This is a hard fork of sindresorhus/awesome and reorganized to suit my needs but
 
 This repo is still a work in progress to get it up to snuff. Especially the table of contents and even the general organization.
 
-I foresee this list to be a lot bigger than the original awesome list becuase I will be filling out the rest of the broader categories over time as the upstream repo is clearly and understandably IT based.
+I foresee this list to be a lot bigger than the original awesome list because I will be filling out the rest of the broader categories over time as the upstream repo is clearly and understandably IT based.
 
 </br>
 </br>
