@@ -15,7 +15,6 @@ I foresee this list to be a lot bigger than the original awesome list because I 
 # Table of contents
 
 - Hard Sciences
-  - [Learning & Tools](#general-science-tools)
   - [Mathematics](lists/mathematics.md)
   - [Physics](lists/physics.md)
   - [Chemistry](lists/chemistry.md)
