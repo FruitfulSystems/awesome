@@ -21,8 +21,8 @@ I foresee this list to be a lot bigger than the original awesome list because I 
   - [Health & Medicine](lists/health-medicine.md)
   - [Information Technology](lists/information-technology.md)
 - Social Sciences
-- Culture
   - [Media](lists/media.md)
+  - [History](lists/history.md)
   - [Economics](lists/economics.md)
 - [Communities](#communities)
 - [Miscellaneous](#miscellaneous)
