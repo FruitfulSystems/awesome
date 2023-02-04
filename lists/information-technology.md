@@ -4,7 +4,7 @@
 ## Table of Contents
 - [Computer Science](#computer-science)
 	- [Resources](#resources)
-	- [Computer Science Theory - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.](#computer-science-theory---the-interplay-of-computer-science-and-pure-mathematics-distinguished-by-its-emphasis-on-mathematical-rigour-and-technique)
+	- [Computer Science Theory - The interplay of computer science and pure mathematics.](#computer-science-theory---the-interplay-of-computer-science-and-pure-mathematics)
 	- [Data Science](#data-science)
 	- [Machine Learning](#machine-learning)
 	- [Linguistics](#linguistics)
@@ -19,15 +19,14 @@
 	- [Decentralized(Web3)](#decentralizedweb3)
 	- [Infrastructure as Code](#infrastructure-as-code)
 	- [Low Code \& Integration - little to no code app development \& app integrations](#low-code--integration---little-to-no-code-app-development--app-integrations)
-- [Software Development](#software-development)
+- [Software Engineering](#software-engineering)
 	- [Learning \& Resources](#learning--resources)
 	- [Codecs - File formats, languages, and their compilers](#codecs---file-formats-languages-and-their-compilers)
 	- [Software Architecture - The discipline of designing and building software.](#software-architecture---the-discipline-of-designing-and-building-software)
 	- [Project \& Product Management](#project--product-management)
 	- [Development Environments](#development-environments)
-	- [Game Development](#game-development)
-	- [Back-End](#back-end)
-	- [Front End](#front-end)
+	- [Development](#development)
+	- [UI/UX Design](#uiux-design)
 - [Networking](#networking)
 	- [Protocols](#protocols)
 	- [Tools](#tools)
@@ -71,7 +70,7 @@
 
 </br>
 
-### [Computer Science Theory](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+### [Computer Science Theory](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics.
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
@@ -294,7 +293,7 @@
 
 </br>
 
-## Software Development
+## Software Engineering
 
 
 ### Learning & Resources
@@ -484,28 +483,10 @@
 
 </br>
 
-### [Game Development](https://github.com/ellisonleao/magictools#readme)
-- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
-	- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
-- Game Engines & Frameworks
-	- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
-	- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
-	- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
-	- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
-	- [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
-	- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
-	- [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
-	- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
-	- [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+### Development
 
-
-
-</br>
-
-### Back-End
-- [Web Dev Tools](https://github.com/lvwzhen/tools#readme)
+- [Tools](https://github.com/lvwzhen/tools#readme)
 	- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
-	- 
 	- [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
 	- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 	- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
@@ -529,7 +510,6 @@
 	- [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 	- [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 	- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
-	
 - [Databases](https://github.com/numetriclabz/awesome-db#readme)
 	- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 	- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
@@ -563,10 +543,10 @@
 	- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 	- [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 - [IAM's](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
-- Web Servers
+- Servers
 	- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 	- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- Native Frameworks & Builders
+- Frameworks & Builders
 	- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 	- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 	- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
@@ -576,7 +556,6 @@
 	- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 	- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
 	- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
-- Web Frameworks & Builders
 	- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 	- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 	- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
@@ -597,92 +576,106 @@
 	- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 	- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 	- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
-3rd Party Integrations
+	- - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+	- [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
+	- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+	- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
+	- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
+	- [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
+	- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
+	- [BEM](https://github.com/sturobson/BEM-resources#readme)
+	- [MeteorJS](https://github.com/Urigo/awesome-meteor#readme)
+	- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+	- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
+	- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+	- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
+		- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
+	- [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+		- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+		- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
+	- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
+	- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+	- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+	- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
+	- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+	- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
+	- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
+	- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
+	- [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
+	- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
+	- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+	- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+	- [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+	- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+	- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+	- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
+	- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
+	- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
+	- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
+
+### [UI/UX Design](https://github.com/gztchan/awesome-design#readme)
+- Learn
+	- [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
+	- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
+	- [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
+	- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
+	- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
+	- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
+	- [Offline-First](https://github.com/pazguille/offline-first#readme)
+	- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
+		- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 
 
-</br>
+- Design Tools
+	- [Front End Devs](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
+		- Native
+			- [OpenGL](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
+			- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
+				- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
+				- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+			- [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
+			- [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 
-### [Front End](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [UI/UX](https://github.com/gztchan/awesome-design#readme)
-	- Design Tools
-		- [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
-		- [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
-		- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
-	- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)[](https://github.com/neutraltone/awesome-stock-resources#readme)](https://github.com/neutraltone/awesome-stock-resources#readme)
-		- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
-		- [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
-		- [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-		- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
-		- [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
-		- [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme)
-		- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
-	- Learn
-		- [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
-		- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
-		- [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-	- [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
-	- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
-	- [Creative Tech Groups](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
-- Native
-	- [OpenGL](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
-	- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-		- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-		- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-	- [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
-	- [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
-- Web
-	- Learn
-		- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
-		- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
-		- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
-		- [Offline-First](https://github.com/pazguille/offline-first#readme)
-		- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-			- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
-	- Frameworks & Builders
-		- [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
-		- [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
-		- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
-		- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
-		- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
-		- [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
-		- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
-		- [BEM](https://github.com/sturobson/BEM-resources#readme)
-		- [MeteorJS](https://github.com/Urigo/awesome-meteor#readme)
-		- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
-		- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
-		- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-		- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
-			- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
-		- [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-			- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
-			- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
-		- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
-		- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-		- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
-		- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
-		- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
-		- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
-		- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
-		- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
-		- [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
-		- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
-		- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-		- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
-		- [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
-		- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
-		- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
-		- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
-		- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
-		- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
-		- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
-	- [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
-		- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
-		- [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
-		- [Material Design](https://github.com/sachin1092/awesome-material#readme)
-			- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
-			- [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
-		- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
-		- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
+
+	- [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
+	- [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
+	- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
+- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)[](https://github.com/neutraltone/awesome-stock-resources#readme)](https://github.com/neutraltone/awesome-stock-resources#readme)
+	- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
+	- [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
+	- [Fonts](https://github.com/brabadu/awesome-fonts#readme)
+	- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
+	- [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
+	- [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme)
+	- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
+- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
+- [Creative Tech Groups](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+
+
+- [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+	- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+	- [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
+	- [Material Design](https://github.com/sachin1092/awesome-material#readme)
+		- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+		- [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
+	- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
+	- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
+
+- Domain Specific
+	- [Game Development](https://github.com/ellisonleao/magictools#readme)
+		- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+			- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+		- Game Engines & Frameworks
+			- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
+			- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+			- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+			- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+			- [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
+			- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
+			- [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
+			- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+			- [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 
 ## Networking
