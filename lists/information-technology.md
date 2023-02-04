@@ -292,6 +292,8 @@
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 
+</br>
+
 ## Software Development
 
 
@@ -385,10 +387,8 @@
 		- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 		- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
 		- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
-	- Scripts & Libraries
-	- Frameworks
 	- Tools
-		- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+
 - [Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
@@ -475,8 +475,12 @@
 		- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 		- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 	- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
-
-
+- TaskRunners
+	- [Gulp](https://github.com/alferov/awesome-gulp#readme) - Nodejs Task runner.
+- Linters
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+- Code Formatters
+		
 
 </br>
 
@@ -499,8 +503,33 @@
 </br>
 
 ### Back-End
-- Tools
+- [Web Dev Tools](https://github.com/lvwzhen/tools#readme)
 	- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+	- 
+	- [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
+	- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+	- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
+	- [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+	- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+	- [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
+	- [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - Graph drawing packages for TeX/LaTeX/ConTeXt.
+	- [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+	- [Charting](https://github.com/zingchart/awesome-charting#readme)
+	- [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme)
+	- [Emails](https://github.com/jonathandion/awesome-emails#readme)
+	- [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
+	- [Text Editing](https://github.com/dok/awesome-text-editing#readme)
+	- [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
+	- [Web Typography](https://github.com/deanhume/typography#readme)
+	- [Ads](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
+	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
+	- [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
+	- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+	- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
+	- [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+	- [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
+	- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
+	
 - [Databases](https://github.com/numetriclabz/awesome-db#readme)
 	- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 	- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
@@ -534,7 +563,7 @@
 	- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 	- [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 - [IAM's](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
-- Servers
+- Web Servers
 	- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 	- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
 - Native Frameworks & Builders
@@ -568,14 +597,13 @@
 	- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 	- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 	- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
-- [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
-
+3rd Party Integrations
 
 
 </br>
 
 ### [Front End](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- Design Work
+- [UI/UX](https://github.com/gztchan/awesome-design#readme)
 	- Design Tools
 		- [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
 		- [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
@@ -610,30 +638,6 @@
 		- [Offline-First](https://github.com/pazguille/offline-first#readme)
 		- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 			- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
-	- [Tools](https://github.com/lvwzhen/tools#readme)
-		- [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
-		- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
-		- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
-		- [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
-		- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
-		- [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
-		- [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-		- [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
-		- [Charting](https://github.com/zingchart/awesome-charting#readme)
-		- [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme)
-		- [Emails](https://github.com/jonathandion/awesome-emails#readme)
-		- [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
-		- [Text Editing](https://github.com/dok/awesome-text-editing#readme)
-		- [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
-		- [Web Typography](https://github.com/deanhume/typography#readme)
-		- [Ads](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
-		- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
-		- [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
-		- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
-		- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-		- [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
-		- [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
-		- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
 	- Frameworks & Builders
 		- [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 		- [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
